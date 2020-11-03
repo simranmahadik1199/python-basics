@@ -1,0 +1,10 @@
+number1=int(input('enter a='))
+number2=int(input('enter b='))
+print('addition of {} and {} is {}'.format(number1,number2,number1+number2))
+number3=int(input('enter c='))
+number4=int(input('enter d='))
+print('subtraction of {} and {} is {}'.format(number3,number4,number3-number4))
+number5=int(input('enter e='))
+number6=int(input('enter f='))
+print('multiplication of {} and {} is {}'.format(number5,number6,number5*number6))
+
